@@ -1,0 +1,55 @@
+[27.12.2022 16:16:56] Client created
+[27.12.2022 16:17:00] Request for usd data: https://localhost:5001/rate?usd&startdate=2022-12-25&enddate=2022-12-25
+[27.12.2022 16:17:00] Responce content accepted
+[27.12.2022 16:17:04] Request for usd data: https://localhost:5001/rate?usd&startdate=2022-01-01&enddate=2022-12-25
+[27.12.2022 16:17:04] Responce content accepted
+[27.12.2022 16:17:06] Request for eur data: https://localhost:5001/rate?eur&startdate=2022-01-01&enddate=2022-12-25
+[27.12.2022 16:17:06] Responce content accepted
+[27.12.2022 16:17:08] Request for eur data: https://localhost:5001/rate?eur&startdate=2022-01-01&enddate=2022-12-25
+[27.12.2022 16:17:08] Responce content accepted
+[27.12.2022 16:17:11] Request for rub data: https://localhost:5001/rate?rub&startdate=2022-01-01&enddate=2022-12-25
+[27.12.2022 16:17:11] Responce content accepted
+[27.12.2022 16:17:14] Request for btc data: https://localhost:5001/rate?btc&startdate=2022-01-01&enddate=2022-12-25
+[27.12.2022 16:17:14] Responce content accepted
+[27.12.2022 16:18:41] Client created
+[27.12.2022 16:19:00] Request for usd data: https://localhost:5001/rate?usd&startdate=2022-01-01&enddate=2022-12-27
+[27.12.2022 16:19:00] Responce content accepted
+[27.12.2022 16:20:02] Request for usd data: https://localhost:5001/rate?usd&startdate=2021-01-01&enddate=2022-12-27
+[27.12.2022 16:20:02] Responce content accepted
+[27.12.2022 16:20:27] Request for eur data: https://localhost:5001/rate?eur&startdate=2021-01-01&enddate=2022-12-27
+[27.12.2022 16:20:27] Responce content accepted
+[27.12.2022 16:20:44] Request for btc data: https://localhost:5001/rate?btc&startdate=2021-01-01&enddate=2022-12-27
+[27.12.2022 16:20:44] Responce content accepted
+[27.12.2022 16:21:05] Request for btc data: https://localhost:5001/rate?btc&startdate=2021-12-01&enddate=2022-12-27
+[27.12.2022 16:21:05] Responce content accepted
+[27.12.2022 16:21:10] Request for btc data: https://localhost:5001/rate?btc&startdate=2022-12-01&enddate=2022-12-27
+[27.12.2022 16:21:10] Responce content accepted
+[27.12.2022 16:23:22] Client created
+[27.12.2022 16:23:37] Request for eur data: https://localhost:5001/rate?eur&startdate=2022-11-10&enddate=2022-12-25
+[27.12.2022 16:23:37] Responce content accepted
+[27.12.2022 16:24:07] Request for rub data: https://localhost:5001/rate?rub&startdate=2022-12-10&enddate=2022-12-26
+[27.12.2022 16:24:07] Responce content accepted
+[27.12.2022 16:24:46] Request for rub data: https://localhost:5001/rate?rub&startdate=2022-12-10&enddate=2022-12-26
+[27.12.2022 16:24:46] Responce content accepted
+[27.12.2022 16:24:57] Request for usd data: https://localhost:5001/rate?usd&startdate=2022-12-10&enddate=2022-12-26
+[27.12.2022 16:24:57] Responce content accepted
+[27.12.2022 16:25:26] Client created
+[01.01.2023 00:54:14] Client created
+[01.01.2023 00:54:28] Request for usd data: https://localhost:5001/rate?usd&startdate=2022-12-25&enddate=2022-12-30
+[01.01.2023 00:55:25] Client created
+[01.01.2023 00:55:38] Request for usd data: https://localhost:5001/rate?usd&startdate=2022-11-11&enddate=2022-12-30
+[01.01.2023 00:55:38] Responce content accepted
+[01.01.2023 00:57:33] Request for eur data: https://localhost:5001/rate?eur&startdate=2022-11-11&enddate=2022-12-30
+[01.01.2023 00:57:33] Responce content accepted
+[01.01.2023 00:57:36] Request for rub data: https://localhost:5001/rate?rub&startdate=2022-11-11&enddate=2022-12-30
+[01.01.2023 00:57:36] Responce content accepted
+[01.01.2023 00:57:39] Request for btc data: https://localhost:5001/rate?btc&startdate=2022-11-11&enddate=2022-12-30
+[01.01.2023 00:57:39] Responce content accepted
+[01.01.2023 00:57:52] Request for btc data: https://localhost:5001/rate?btc&startdate=2022-11-11&enddate=2023-01-01
+[01.01.2023 00:57:52] Responce content accepted
+[01.01.2023 00:58:56] Request for usd data: https://localhost:5001/rate?usd&startdate=2022-11-11&enddate=2023-01-01
+[01.01.2023 00:58:56] Responce content accepted
+[01.01.2023 00:59:04] Request for btc data: https://localhost:5001/rate?btc&startdate=2022-11-11&enddate=2023-01-01
+[01.01.2023 00:59:04] Responce content accepted
+[01.01.2023 00:59:39] Request for usd data: https://localhost:5001/rate?usd&startdate=2022-11-11&enddate=2023-01-01
+[01.01.2023 00:59:39] Responce content accepted

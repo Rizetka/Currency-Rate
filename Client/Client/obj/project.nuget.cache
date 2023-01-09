@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "h3MwLK7+YNayU6yRmDHBqT7afDdYyb9bcQgo22QQJqxn066+5rvaZfV19G4qGooXSGMHIe3slpoWgEpmuLTcGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jagac\\Desktop\\Zadanie\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagac\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\jagac\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\jagac\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\jagac\\.nuget\\packages\\scottplot\\4.1.60\\scottplot.4.1.60.nupkg.sha512",
+    "C:\\Users\\jagac\\.nuget\\packages\\scottplot.wpf\\4.1.60\\scottplot.wpf.4.1.60.nupkg.sha512",
+    "C:\\Users\\jagac\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\jagac\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

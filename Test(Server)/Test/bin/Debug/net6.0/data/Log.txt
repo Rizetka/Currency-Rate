@@ -1,0 +1,277 @@
+[27.12.2022 16:16:44] Creating Server...
+[27.12.2022 16:16:44] USD data loaded to cashe
+[27.12.2022 16:16:44] Currency data loaded to cashe
+[27.12.2022 16:16:44] EUR data loaded to cashe
+[27.12.2022 16:16:44] Currency data loaded to cashe
+[27.12.2022 16:16:44] RUB data loaded to cashe
+[27.12.2022 16:16:44] Currency data loaded to cashe
+[27.12.2022 16:16:44] BTC data loaded to cashe
+[27.12.2022 16:16:44] Updating currency data...
+[27.12.2022 16:16:44] Currrency data is up today
+[27.12.2022 16:16:44] Updating currency data...
+[27.12.2022 16:16:44] Bitcoin data updated
+[27.12.2022 16:16:44] Saving all data...
+[27.12.2022 16:16:44] Currency data doesn't need to de saved
+[27.12.2022 16:16:44] BTC data saved in file
+[27.12.2022 16:16:44] Server created
+[27.12.2022 16:16:44] BTC data loaded to cashe from API
+[27.12.2022 16:17:00] Request for filtered data
+[27.12.2022 16:17:00] Preparing filtered USD data for sending...
+[27.12.2022 16:17:00] Filtered data sent
+[27.12.2022 16:17:04] Request for filtered data
+[27.12.2022 16:17:04] Preparing filtered USD data for sending...
+[27.12.2022 16:17:04] Filtered data sent
+[27.12.2022 16:17:06] Request for filtered data
+[27.12.2022 16:17:06] Preparing filtered EUR data for sending...
+[27.12.2022 16:17:06] Filtered data sent
+[27.12.2022 16:17:08] Request for filtered data
+[27.12.2022 16:17:08] Preparing filtered EUR data for sending...
+[27.12.2022 16:17:08] Filtered data sent
+[27.12.2022 16:17:11] Request for filtered data
+[27.12.2022 16:17:11] Preparing filtered RUB data for sending...
+[27.12.2022 16:17:11] Filtered data sent
+[27.12.2022 16:17:14] Request for filtered data
+[27.12.2022 16:17:14] Preparing filtered BTC data for sending...
+[27.12.2022 16:17:14] Filtered data sent
+[27.12.2022 16:18:32] Creating Server...
+[27.12.2022 16:18:32] USD data loaded to cashe
+[27.12.2022 16:18:32] Currency data loaded to cashe
+[27.12.2022 16:18:32] EUR data loaded to cashe
+[27.12.2022 16:18:32] Currency data loaded to cashe
+[27.12.2022 16:18:32] RUB data loaded to cashe
+[27.12.2022 16:18:32] Currency data loaded to cashe
+[27.12.2022 16:18:32] BTC data loaded to cashe
+[27.12.2022 16:18:32] Updating currency data...
+[27.12.2022 16:18:32] Currrency data is up today
+[27.12.2022 16:18:32] Updating currency data...
+[27.12.2022 16:18:32] Bitcoin data updated
+[27.12.2022 16:18:32] Saving all data...
+[27.12.2022 16:18:32] Currency data doesn't need to de saved
+[27.12.2022 16:18:32] BTC data saved in file
+[27.12.2022 16:18:32] Server created
+[27.12.2022 16:18:32] BTC data loaded to cashe from API
+[27.12.2022 16:19:00] Request for filtered data
+[27.12.2022 16:19:00] Preparing filtered USD data for sending...
+[27.12.2022 16:19:00] Filtered data sent
+[27.12.2022 16:20:02] Request for filtered data
+[27.12.2022 16:20:02] Preparing filtered USD data for sending...
+[27.12.2022 16:20:02] Filtered data sent
+[27.12.2022 16:20:27] Request for filtered data
+[27.12.2022 16:20:27] Preparing filtered EUR data for sending...
+[27.12.2022 16:20:27] Filtered data sent
+[27.12.2022 16:20:44] Request for filtered data
+[27.12.2022 16:20:44] Preparing filtered BTC data for sending...
+[27.12.2022 16:20:44] Filtered data sent
+[27.12.2022 16:21:05] Request for filtered data
+[27.12.2022 16:21:05] Preparing filtered BTC data for sending...
+[27.12.2022 16:21:05] Filtered data sent
+[27.12.2022 16:21:10] Request for filtered data
+[27.12.2022 16:21:10] Preparing filtered BTC data for sending...
+[27.12.2022 16:21:10] Filtered data sent
+[27.12.2022 16:23:09] Creating Server...
+[27.12.2022 16:23:09] USD data loaded to cashe
+[27.12.2022 16:23:09] Currency data loaded to cashe
+[27.12.2022 16:23:09] EUR data loaded to cashe
+[27.12.2022 16:23:09] Currency data loaded to cashe
+[27.12.2022 16:23:09] RUB data loaded to cashe
+[27.12.2022 16:23:09] Currency data loaded to cashe
+[27.12.2022 16:23:09] BTC data loaded to cashe
+[27.12.2022 16:23:09] Updating currency data...
+[27.12.2022 16:23:09] Currrency data is up today
+[27.12.2022 16:23:09] Updating currency data...
+[27.12.2022 16:23:10] Bitcoin data updated
+[27.12.2022 16:23:10] Saving all data...
+[27.12.2022 16:23:10] Currency data doesn't need to de saved
+[27.12.2022 16:23:10] BTC data saved in file
+[27.12.2022 16:23:10] Server created
+[27.12.2022 16:23:10] BTC data loaded to cashe from API
+[27.12.2022 16:23:37] Request for filtered data
+[27.12.2022 16:23:37] Preparing filtered EUR data for sending...
+[27.12.2022 16:23:37] Filtered data sent
+[27.12.2022 16:24:07] Request for filtered data
+[27.12.2022 16:24:07] Preparing filtered RUB data for sending...
+[27.12.2022 16:24:07] Filtered data sent
+[27.12.2022 16:24:46] Request for filtered data
+[27.12.2022 16:24:46] Preparing filtered RUB data for sending...
+[27.12.2022 16:24:46] Filtered data sent
+[27.12.2022 16:24:57] Request for filtered data
+[27.12.2022 16:24:57] Preparing filtered USD data for sending...
+[27.12.2022 16:24:57] Filtered data sent
+[01.01.2023 00:52:33] Creating Server...
+[01.01.2023 00:52:33] USD data loaded to cashe
+[01.01.2023 00:52:33] Currency data loaded to cashe
+[01.01.2023 00:52:33] EUR data loaded to cashe
+[01.01.2023 00:52:33] Currency data loaded to cashe
+[01.01.2023 00:52:33] RUB data loaded to cashe
+[01.01.2023 00:52:33] Currency data loaded to cashe
+[01.01.2023 00:52:34] BTC data loaded to cashe
+[01.01.2023 00:52:34] Updating currency data...
+[01.01.2023 00:52:34] Currrency data updated
+[01.01.2023 00:52:34] Updating currency data...
+[01.01.2023 00:52:34] Bitcoin data updated
+[01.01.2023 00:52:34] Saving all data...
+[01.01.2023 00:52:34] USD currency data saved in file
+[01.01.2023 00:52:34] EUR currency data saved in file
+[01.01.2023 00:52:34] RUB currency data saved in file
+[01.01.2023 00:52:34] BTC data saved in file
+[01.01.2023 00:52:34] Server created
+[01.01.2023 00:52:34] BTC data loaded to cashe from API
+[01.01.2023 00:52:35] StatusCode 404 sent. Wrong parameters format
+[01.01.2023 00:53:10] Creating Server...
+[01.01.2023 00:53:10] USD data loaded to cashe
+[01.01.2023 00:53:10] Currency data loaded to cashe
+[01.01.2023 00:53:10] EUR data loaded to cashe
+[01.01.2023 00:53:10] Currency data loaded to cashe
+[01.01.2023 00:53:10] RUB data loaded to cashe
+[01.01.2023 00:53:10] Currency data loaded to cashe
+[01.01.2023 00:53:10] BTC data loaded to cashe
+[01.01.2023 00:53:10] Updating currency data...
+[01.01.2023 00:53:10] Currrency data is up today
+[01.01.2023 00:53:10] Updating currency data...
+[01.01.2023 00:53:10] Bitcoin data updated
+[01.01.2023 00:53:10] Saving all data...
+[01.01.2023 00:53:10] Currency data doesn't need to de saved
+[01.01.2023 00:53:10] BTC data saved in file
+[01.01.2023 00:53:10] Server created
+[01.01.2023 00:53:11] BTC data loaded to cashe from API
+[01.01.2023 00:53:12] StatusCode 404 sent. Wrong parameters format
+[01.01.2023 00:54:48] Creating Server...
+[01.01.2023 00:54:49] USD data loaded to cashe
+[01.01.2023 00:54:49] Currency data loaded to cashe
+[01.01.2023 00:54:49] EUR data loaded to cashe
+[01.01.2023 00:54:49] Currency data loaded to cashe
+[01.01.2023 00:54:49] RUB data loaded to cashe
+[01.01.2023 00:54:49] Currency data loaded to cashe
+[01.01.2023 00:54:49] BTC data loaded to cashe
+[01.01.2023 00:54:49] Updating currency data...
+[01.01.2023 00:54:49] Currrency data is up today
+[01.01.2023 00:54:49] Updating currency data...
+[01.01.2023 00:54:49] Bitcoin data updated
+[01.01.2023 00:54:49] Saving all data...
+[01.01.2023 00:54:49] Currency data doesn't need to de saved
+[01.01.2023 00:54:49] BTC data saved in file
+[01.01.2023 00:54:49] Server created
+[01.01.2023 00:54:49] BTC data loaded to cashe from API
+[01.01.2023 00:55:00] Creating Server...
+[01.01.2023 00:55:00] USD data loaded to cashe
+[01.01.2023 00:55:00] Currency data loaded to cashe
+[01.01.2023 00:55:00] EUR data loaded to cashe
+[01.01.2023 00:55:00] Currency data loaded to cashe
+[01.01.2023 00:55:00] RUB data loaded to cashe
+[01.01.2023 00:55:00] Currency data loaded to cashe
+[01.01.2023 00:55:00] BTC data loaded to cashe
+[01.01.2023 00:55:00] Updating currency data...
+[01.01.2023 00:55:00] Currrency data is up today
+[01.01.2023 00:55:00] Updating currency data...
+[01.01.2023 00:55:00] Bitcoin data updated
+[01.01.2023 00:55:00] Saving all data...
+[01.01.2023 00:55:00] Currency data doesn't need to de saved
+[01.01.2023 00:55:01] BTC data saved in file
+[01.01.2023 00:55:01] Server created
+[01.01.2023 00:55:01] BTC data loaded to cashe from API
+[01.01.2023 00:55:38] Request for filtered data
+[01.01.2023 00:55:38] Preparing filtered USD data for sending...
+[01.01.2023 00:55:38] Filtered data sent
+[01.01.2023 00:57:33] Request for filtered data
+[01.01.2023 00:57:33] Preparing filtered EUR data for sending...
+[01.01.2023 00:57:33] Filtered data sent
+[01.01.2023 00:57:36] Request for filtered data
+[01.01.2023 00:57:36] Preparing filtered RUB data for sending...
+[01.01.2023 00:57:36] Filtered data sent
+[01.01.2023 00:57:39] Request for filtered data
+[01.01.2023 00:57:39] Preparing filtered BTC data for sending...
+[01.01.2023 00:57:39] Filtered data sent
+[01.01.2023 00:57:52] Request for filtered data
+[01.01.2023 00:57:52] Preparing filtered BTC data for sending...
+[01.01.2023 00:57:52] Filtered data sent
+[01.01.2023 00:58:56] Request for filtered data
+[01.01.2023 00:58:56] Preparing filtered USD data for sending...
+[01.01.2023 00:58:56] Filtered data sent
+[01.01.2023 00:59:04] Request for filtered data
+[01.01.2023 00:59:04] Preparing filtered BTC data for sending...
+[01.01.2023 00:59:04] Filtered data sent
+[01.01.2023 00:59:39] Request for filtered data
+[01.01.2023 00:59:39] Preparing filtered USD data for sending...
+[01.01.2023 00:59:39] Filtered data sent
+[01.01.2023 01:06:01] Creating Server...
+[01.01.2023 01:06:01] USD data loaded to cashe
+[01.01.2023 01:06:01] Currency data loaded to cashe
+[01.01.2023 01:06:01] EUR data loaded to cashe
+[01.01.2023 01:06:01] Currency data loaded to cashe
+[01.01.2023 01:06:01] RUB data loaded to cashe
+[01.01.2023 01:06:01] Currency data loaded to cashe
+[01.01.2023 01:06:01] BTC data loaded to cashe
+[01.01.2023 01:06:01] Updating currency data...
+[01.01.2023 01:06:01] Currrency data is up today
+[01.01.2023 01:06:01] Updating currency data...
+[01.01.2023 01:06:01] Bitcoin data updated
+[01.01.2023 01:06:01] Saving all data...
+[01.01.2023 01:06:01] Currency data doesn't need to de saved
+[01.01.2023 01:06:01] BTC data saved in file
+[01.01.2023 01:06:01] Server created
+[01.01.2023 01:06:02] BTC data loaded to cashe from API
+[01.01.2023 01:06:03] StatusCode 404 sent. Wrong parameters format
+[01.01.2023 01:06:14] Creating Server...
+[01.01.2023 01:06:14] USD data loaded to cashe
+[01.01.2023 01:06:14] Currency data loaded to cashe
+[01.01.2023 01:06:14] EUR data loaded to cashe
+[01.01.2023 01:06:14] Currency data loaded to cashe
+[01.01.2023 01:06:14] RUB data loaded to cashe
+[01.01.2023 01:06:14] Currency data loaded to cashe
+[01.01.2023 01:06:14] BTC data loaded to cashe
+[01.01.2023 01:06:14] Updating currency data...
+[01.01.2023 01:06:14] Currrency data is up today
+[01.01.2023 01:06:14] Updating currency data...
+[01.01.2023 01:06:14] Bitcoin data updated
+[01.01.2023 01:06:14] Saving all data...
+[01.01.2023 01:06:14] Currency data doesn't need to de saved
+[01.01.2023 01:06:14] BTC data saved in file
+[01.01.2023 01:06:14] Server created
+[01.01.2023 01:06:15] BTC data loaded to cashe from API
+[01.01.2023 01:06:15] StatusCode 404 sent. Wrong parameters format
+[01.01.2023 01:06:23] Creating Server...
+[01.01.2023 01:06:23] USD data loaded to cashe
+[01.01.2023 01:06:23] Currency data loaded to cashe
+[01.01.2023 01:06:23] EUR data loaded to cashe
+[01.01.2023 01:06:23] Currency data loaded to cashe
+[01.01.2023 01:06:23] RUB data loaded to cashe
+[01.01.2023 01:06:23] Currency data loaded to cashe
+[01.01.2023 01:06:23] BTC data loaded to cashe
+[01.01.2023 01:06:23] Updating currency data...
+[01.01.2023 01:06:23] Currrency data is up today
+[01.01.2023 01:06:23] Updating currency data...
+[01.01.2023 01:06:23] Bitcoin data updated
+[01.01.2023 01:06:23] Saving all data...
+[01.01.2023 01:06:23] Currency data doesn't need to de saved
+[01.01.2023 01:06:23] BTC data saved in file
+[01.01.2023 01:06:23] Server created
+[01.01.2023 01:06:24] BTC data loaded to cashe from API
+[01.01.2023 01:06:25] StatusCode 404 sent. Wrong parameters format
+[01.01.2023 01:09:13] Creating Server...
+[01.01.2023 01:09:13] USD data loaded to cashe
+[01.01.2023 01:09:13] Currency data loaded to cashe
+[01.01.2023 01:09:13] EUR data loaded to cashe
+[01.01.2023 01:09:13] Currency data loaded to cashe
+[01.01.2023 01:09:13] RUB data loaded to cashe
+[01.01.2023 01:09:13] Currency data loaded to cashe
+[01.01.2023 01:09:13] BTC data loaded to cashe
+[01.01.2023 01:09:13] Updating currency data...
+[01.01.2023 01:09:13] Currrency data is up today
+[01.01.2023 01:09:13] Updating currency data...
+[01.01.2023 01:09:13] Bitcoin data updated
+[01.01.2023 01:09:13] Saving all data...
+[01.01.2023 01:09:13] Currency data doesn't need to de saved
+[01.01.2023 01:09:13] BTC data saved in file
+[01.01.2023 01:09:13] Server created
+[01.01.2023 01:09:14] BTC data loaded to cashe from API
+[01.01.2023 01:09:15] StatusCode 404 sent. Wrong parameters format
+[01.01.2023 01:09:34] Request for filtered data
+[01.01.2023 01:09:34] Preparing filtered USD data for sending...
+[01.01.2023 01:09:34] Filtered data sent
+[01.01.2023 01:09:34] StatusCode 404 sent. Wrong parameters format
+[01.01.2023 01:09:37] Request for filtered data
+[01.01.2023 01:09:37] Preparing filtered USD data for sending...
+[01.01.2023 01:09:37] Filtered data sent
+[01.01.2023 01:09:41] Request for filtered data
+[01.01.2023 01:09:41] Preparing filtered USD data for sending...
+[01.01.2023 01:09:41] Filtered data sent
